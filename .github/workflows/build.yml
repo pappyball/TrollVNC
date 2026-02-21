@@ -219,4 +219,4 @@ jobs:
             Built on: ${{ github.sha }}
           files: release-packages/**/*
           draft: false
-          prerelease: false
+          prerelease: false 
